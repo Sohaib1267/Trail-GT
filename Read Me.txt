@@ -1,0 +1,7 @@
+Implemented the RAG using the FAISS Python Library by using the data.xlsx.
+
+The model predict the similarity of the given prompt on the provide/input dataset.
+
+The main file of the model is tech2.py
+
+
